@@ -344,8 +344,7 @@ section {
   align-items: center;
 }
 .card {
-  width: 12rem;
-  height: 180px;
+
   display: flex;
   text-align: center;
   flex-flow: column wrap;
